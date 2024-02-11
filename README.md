@@ -1,4 +1,4 @@
-#👋 Hi there!
+# 👋 Hi there!
 
 My name is Jake and I'm a Computer Science student from Australia.<br/>
 
