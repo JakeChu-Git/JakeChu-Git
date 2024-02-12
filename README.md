@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My name is Jake and I'm a Computer Science student from Australia.<br/>
+My name is Jake and I'm a Computer Science student from Sydney, Australia.<br/>
 
 
 💻 Tech Stack:<br/>
